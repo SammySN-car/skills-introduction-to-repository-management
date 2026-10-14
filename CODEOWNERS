@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SammySN-car
+/src/backend/database.py      @SammySN-car
+/src/backend/routers/auth.py  @SammySN-car
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SammySN-car
